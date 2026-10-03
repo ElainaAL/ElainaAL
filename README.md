@@ -1,4 +1,4 @@
-# YLN 3.7
+# YLN 3.7.2
 * 基于 [Perseus](https://github.com/Egoistically/Perseus) 和 [PiePerseus](https://github.com/4pii4/PiePerseus) 源代码创建，优化并新增功能。  
 本项目二次开发名为 **Elaina**，配置文件名为 `Elaina.json`。
 
@@ -7,10 +7,11 @@
 * true/false 启用对应参数，-1为默认数值
 * 修改后需要重启游戏以使配置生效
 
-## 构建
-* 以前就在用的可以单独把lib里的对应.so文件放到以下文件夹替换原文件, 达到直接更新(3.3及以下版本暂不支持)
+## 升级版本
+* 以前就在用的可以单独把lib里的对应.so文件放到以下文件夹替换原文件, 达到直接更新(3.3及以下版本暂不支持)，这个目录不是游戏的根目录，注意看完整路径
 /data/app/~~乱码==/com.bilibili.azurlane-乱码==/lib/x86_64/
 * 升级新版本之前建议备份一下旧版本，我只会轻微测试一次就发布
+
 ## 感谢
 * [Egoistically/Perseus](https://github.com/Egoistically/Perseus)
 * [4pii4/PiePerseus](https://github.com/4pii4/PiePerseus)
